@@ -27,6 +27,6 @@ This project presents a festive Diwali wishes display, featuring a firecracker e
 ## Conclusion
 
 This project aims to bring joy and celebration to the Diwali festival through interactive and colorful visuals. Feel free to modify and enhance it to suit your creative ideas!
-see the output of my code : https://67225cd1b12b7e0078dfcdc2--wishes31.netlify.app/ .
+see the output of my code : 
 https://arjun1106030909119.github.io/Diwalicelebrate/
 https://arjun1106030909119.github.io/Diwalicelebrate/
